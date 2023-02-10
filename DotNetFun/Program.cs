@@ -16,6 +16,7 @@ namespace DotNetFun
     {
         static void Main(string[] args)
         {
+           //Use com moderação
             Util.DesenhaCaixa(Cores.Azul);
             Util.DesenhaCaixa(Cores.Branco);
             Util.DesenhaCaixa(Cores.Vermelho);
